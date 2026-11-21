@@ -1,0 +1,6 @@
+:HL["/passaporte-do-patrimonio/_next/static/chunks/3c0ltwuww8lki.css","style"]
+:HL["/passaporte-do-patrimonio/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/passaporte-do-patrimonio/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"relatorio","h":96,"c":"$Q2"}]]
+0:{"b":"ecAHte2Zmh7kTF3SD1_Qg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

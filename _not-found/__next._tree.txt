@@ -1,0 +1,4 @@
+:HL["/passaporte-do-patrimonio/_next/static/chunks/3c0ltwuww8lki.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"ecAHte2Zmh7kTF3SD1_Qg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

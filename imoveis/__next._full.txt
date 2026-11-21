@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/passaporte-do-patrimonio/_next/static/chunks/1678e9rnwr5x0.js"
+3:"/passaporte-do-patrimonio/_next/static/chunks/0vdelq2avgosm.js"
+4:I[33204,["$2","$3"],"Shell"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+b:"/passaporte-do-patrimonio/_next/static/chunks/2ce_4tehp6f22.js"
+c:"PropertySimulator"
+d:I[10556,["$2","$3","$b"],"$c"]
+e:I[97367,["$2","$3"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2","$3"],"$11"]
+14:"MetadataBoundary"
+15:I[97367,["$2","$3"],"$14"]
+17:I[68027,["$2","$3"],"default",1]
+:HL["/passaporte-do-patrimonio/_next/static/chunks/3c0ltwuww8lki.css","style"]
+:HL["/passaporte-do-patrimonio/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/passaporte-do-patrimonio/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{}],[["$","script","script-0",{"src":"/passaporte-do-patrimonio/_next/static/chunks/2ce_4tehp6f22.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"imoveis","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","imoveis",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/passaporte-do-patrimonio/_next/static/chunks/3c0ltwuww8lki.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/passaporte-do-patrimonio/_next/static/chunks/1678e9rnwr5x0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/passaporte-do-patrimonio/_next/static/chunks/0vdelq2avgosm.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"PQmGkq_variable u8ah-q_variable h-full","children":["$","body",null,{"className":"min-h-full antialiased","children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"font-display text-4xl text-navy","children":"Esta página não existe"}],["$","p",null,{"className":"text-lg","children":"Volte ao início para escolher um módulo."}],["$","$L7",null,{"href":"/","className":"inline-flex h-12 items-center rounded-md bg-navy px-5 font-semibold text-ivory","children":"Ir para o início"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/passaporte-do-patrimonio/_next/static/chunks/3c0ltwuww8lki.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ecAHte2Zmh7kTF3SD1_Qg"}
+9:C
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["$2","$3"],"IconMark"]
+10:null
+16:[["$","title","0",{"children":"Simulador de Venda de Imóveis · Passaporte do Patrimônio"}],["$","meta","1",{"name":"description","content":"Para donos de empresas e famílias empresárias. A planilha não sai deste computador."}],["$","link","2",{"rel":"icon","href":"/passaporte-do-patrimonio/icon.svg?icon.0z4i95-_qsxkw.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]
